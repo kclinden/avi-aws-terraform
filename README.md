@@ -1,0 +1,2 @@
+# Avi AWS Terraform
+This Terraform configuration can be used to configure all of the IAM policies and roles for AVI on AWS. Note that currently the ARNs are configured for aws-us-gov and this would need to be updated back to commercial for Standard AWS. The files can be found on the Avi Networks Github DevOps repo.
